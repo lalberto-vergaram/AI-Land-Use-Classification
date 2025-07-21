@@ -18,7 +18,7 @@ Para evaluar la efectividad del modelo de Machine Learning, se realizó una comp
 
 El análisis demuestra que, si bien las herramientas estándar de GIS son potentes, un modelo de IA personalizado como Random Forest puede lograr una mayor coherencia y fiabilidad, especialmente en paisajes complejos donde las firmas espectrales pueden ser ambiguas.
 
-![Informe sencillo IA](resultados/informe_sencillo)
+![Informe sencillo IA](resultados/informe_sencillo.png)
 
 ### Desafíos Superados
 Durante el desarrollo, se solucionaron desafíos técnicos comunes en el procesamiento de datos geoespaciales a gran escala, como la gestión de errores `MemoryError` mediante el procesamiento por bloques y la resolución de problemas de compatibilidad de formatos entre QGIS y Python.
